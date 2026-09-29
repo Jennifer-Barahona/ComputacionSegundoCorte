@@ -27,4 +27,9 @@
       <Filter>Archivos de origen</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="x64\Debug\ImagenMariposas.png">
+      <Filter>Archivos de origen</Filter>
+    </Image>
+  </ItemGroup>
 </Project>
